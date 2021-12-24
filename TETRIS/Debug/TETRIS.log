@@ -1,0 +1,32 @@
+﻿  tetris.c
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(155,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(160,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(257,19): warning C4013: 'block_crash'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(880,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(898,23): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(929,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(930,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(933,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1052,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1054,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1090,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1092,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(900,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(900,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1147,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1149,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1175,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+C:\Users\xornj\source\repos\TETRIS\TETRIS\tetris.c(1177,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+  TETRIS.vcxproj -> C:\Users\xornj\source\repos\TETRIS\Debug\TETRIS.exe
